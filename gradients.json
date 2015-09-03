@@ -458,4 +458,8 @@
 {
     "name": "Deep Purple",
     "colors": ["#673AB7", "#512DA8"]
+},
+{
+    "name": "Segments",
+    "colors": ["#65d165", "#57D39C"]
 }]
